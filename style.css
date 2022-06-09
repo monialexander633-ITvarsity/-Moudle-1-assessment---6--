@@ -1,0 +1,35 @@
+h2{
+    color: black;
+    text-decoration-color: none;
+    background-color: lawngreen;
+}
+
+h2:hover{
+    background-color: white;
+}
+
+.product_button{
+    width: 100%;
+    height: 40px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 10px;
+    border: none;
+    outline: none;
+}
+
+.product_basket{
+    background-color: lightblue;
+    margin-top: 20px;
+}
+.product_basket:hover{
+    background-color: snow;
+    color: black;
+}
+.product_buy{
+    background-color: dodgerblue;
+    color: black
+}
+.product_buy:hover{
+   background-color: blue;
+}
